@@ -24,6 +24,7 @@ Para iniciar el servidor en modo de desarrollo, usa el siguiente comando: `npm r
 
 ### 7. Backend deployado en railway: https://node-api-rest-mongo-production-82fd.up.railway.app/books
 Routes:
+
 Get: https://node-api-rest-mongo-production-82fd.up.railway.app/books
 
 GetById: https://node-api-rest-mongo-production-82fd.up.railway.app/books/:id
